@@ -9,4 +9,4 @@ For this notebook to fulfull its task please prepare a folder containing two sub
 If you wish to save your results, this notebook will save them as `GT-total.csv` in the `data`folder.
 
 ## Changes
-If needed do not hesitate to change the code to fit your project.
+Additional changes may be required based ont he nature of your project.
